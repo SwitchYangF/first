@@ -1,0 +1,146 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    height: 84px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.logo {
+    padding-top: 17px;
+}
+
+.registerarea {
+    margin-top: 21px;
+    height: 522px;
+    border: 1px solid #dddddd;
+}
+
+.rg-hd {
+    height: 42px;
+    border-bottom: 1px solid #dddddd;
+    background-color: #ececec;
+}
+
+.rg-hd h3 {
+    float: left;
+    line-height: 42px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 12px;
+}
+
+.rg-hd .login {
+    float: right;
+    line-height: 42px;
+    font-size: 14px;
+    margin-right: 12px;
+}
+
+.rg-hd .login a {
+    color: #d05a5f;
+}
+
+.rg-bd {
+    width: 600px;
+    margin: 50px auto 0;
+}
+
+.rg-bd .inp {
+    width: 240px;
+    height: 36px;
+    border: 1px solid #dddddd;
+}
+
+.rg-bd ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+}
+
+.rg-bd ul li .icon_error {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url(../images/error.png) no-repeat;
+    vertical-align: middle;
+}
+
+.rg-bd ul li .error {
+    color: #df3033;
+}
+
+.rg-bd ul li .icon_success {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url(../images/success.png) no-repeat;
+    vertical-align: middle;
+}
+
+.rg-bd ul li .success {
+    color: #40b83f;
+}
+
+.rg-bd ul li {
+    margin-bottom: 20px;
+}
+
+.rg-bd ul .safe {
+    padding-left: 170px;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.rg-bd ul .safe .ruo {
+    background-color: #df3033;
+}
+
+.rg-bd ul .safe .zhong {
+    background-color: #40b83f;
+}
+
+.rg-bd ul .safe .qiang {
+    background-color: #f79100;
+}
+
+.agree {
+    padding-left: 95px;
+}
+
+.agree input {
+    vertical-align: middle;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.wc {
+    width: 200px;
+    height: 34px;
+    background-color: #df3033;
+    color: #fff;
+}
+
+.rg-bd ul li:last-child {
+    padding-left: 95px;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.links a {
+    margin: 0 3px;
+}
+
+.copyright1 {
+    padding-top: 25px;
+}
